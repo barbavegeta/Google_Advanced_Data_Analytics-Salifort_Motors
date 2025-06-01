@@ -32,6 +32,7 @@ salifort-motors-employee-turnover/
 ├── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
 |
 ├── extract_images_from_ipynb.sh # bash script to extract all images
+├── ipynb_to_html.sh # ipynb to html while keeping nice format
 |
 |── html_visual_SB_Activity_Salifort_Motors_project_lab.html # added html file for better visualisation
 |
