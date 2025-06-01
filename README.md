@@ -13,6 +13,7 @@ In this project, we:
 
 ## Project Structure
 
+```
 salifort-motors-employee-turnover/
 │
 ├── hr_data.csv # Raw HR dataset
@@ -29,6 +30,7 @@ salifort-motors-employee-turnover/
 ├── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
 │
 └── README.md # This file
+```
 
 
 ### Confusion Matrix
