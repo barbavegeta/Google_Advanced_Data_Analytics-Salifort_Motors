@@ -13,20 +13,14 @@ In this project, we:
 
 ## Project Structure
 
-.
-├── data/
-│ └── hr_data.csv # Raw HR dataset
-├── notebooks/
-│ └── analysis.ipynb # Jupyter notebook with EDA and initial modeling
-├── models/
-│ ├── hr_rf1.pickle # Trained Random Forest model for Dataset 1
-│ ├── hr_rf2.pickle # Trained Random Forest model for Dataset 2
-│ ├── hr_xgb_model1.json # Trained XGBoost model for Dataset 1
-│ ├── hr_xgb_model1_metadata.pkl # Metadata for XGBoost model 1
-│ └── ... # Additional models/metadata
-├── scripts/
-│ └── train_models.py # Scripts for training/loading models
-├── requirements.txt # Python dependencies
+│── hr_data.csv # Raw HR dataset
+├── analysis.ipynb/
+│── hr_rf1.pickle # Trained Random Forest model for Dataset 1
+│── hr_rf2.pickle # Trained Random Forest model for Dataset 2
+│── hr_xgb_model1.json # Trained XGBoost model for Dataset 1
+│── hr_xgb_model1_metadata.pkl # Metadata for XGBoost model 1
+│── hr_xgb_model2.json # Trained XGBoost model for Dataset 2
+│── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
 └── README.md # This file
 
 
