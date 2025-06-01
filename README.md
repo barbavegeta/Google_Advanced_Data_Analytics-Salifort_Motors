@@ -30,7 +30,7 @@ salifort-motors-employee-turnover/
 │
 ├── hr_xgb_model2.json # Trained XGBoost model for Dataset 2
 ├── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
-|
+├── extract_images_from_ipynb.sh # bash script to extract all images
 └── README.md # This file
 
 ```
