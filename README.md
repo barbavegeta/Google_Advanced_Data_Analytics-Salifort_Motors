@@ -13,14 +13,21 @@ In this project, we:
 
 ## Project Structure
 
-│── hr_data.csv # Raw HR dataset
-├── analysis.ipynb/
-│── hr_rf1.pickle # Trained Random Forest model for Dataset 1
-│── hr_rf2.pickle # Trained Random Forest model for Dataset 2
-│── hr_xgb_model1.json # Trained XGBoost model for Dataset 1
-│── hr_xgb_model1_metadata.pkl # Metadata for XGBoost model 1
-│── hr_xgb_model2.json # Trained XGBoost model for Dataset 2
-│── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
+salifort-motors-employee-turnover/
+│
+├── hr_data.csv # Raw HR dataset
+│
+├── analysis.ipynb # Jupyter Notebook with analysis
+│
+├── hr_rf1.pickle # Trained Random Forest model for Dataset 1
+├── hr_rf2.pickle # Trained Random Forest model for Dataset 2
+│
+├── hr_xgb_model1.json # Trained XGBoost model for Dataset 1
+├── hr_xgb_model1_metadata.pkl # Metadata for XGBoost model 1
+│
+├── hr_xgb_model2.json # Trained XGBoost model for Dataset 2
+├── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
+│
 └── README.md # This file
 
 
