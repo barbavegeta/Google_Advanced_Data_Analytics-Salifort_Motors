@@ -15,6 +15,8 @@ In this project, we:
 
 ```
 salifort-motors-employee-turnover/
+|
+├── images/
 │
 ├── hr_data.csv # Raw HR dataset
 │
@@ -28,8 +30,9 @@ salifort-motors-employee-turnover/
 │
 ├── hr_xgb_model2.json # Trained XGBoost model for Dataset 2
 ├── hr_xgb_model2_metadata.pkl # Metadata for XGBoost model 2
-│
+|
 └── README.md # This file
+
 ```
 
 
