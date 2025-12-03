@@ -5,6 +5,9 @@ The goal of the project is to use HR data to:
 - Build predictive models to estimate the probability of turnover.
 - Translate the findings into actionable recommendations for retention.
 The analysis is implemented in Python using **pandas**, **NumPy**, **scikit-learn**, and **XGBoost**, with visualisation in **Matplotlib/Seaborn**.
+
+**Tech stack:** Python · Pandas · scikit-learn · XGBoost · NumPy · SciPy · Statsmodels
+
 ---
 ## Repository structure
 - `SB_Activity_Salifort_Motors_project_lab.ipynb`  
@@ -98,3 +101,4 @@ The main notebook roughly follows these steps:
 - The emphasis is on:
   - Clear, reproducible analysis in a single notebook.
   - Interpretable results that can inform HR decisions at Salifort Motors or similar organisations.
+
