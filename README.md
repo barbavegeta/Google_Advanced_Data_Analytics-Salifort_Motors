@@ -1,4 +1,4 @@
-# Salifort Motors – HR Analytics & Employee Turnover
+# Salifort Motors - HR Analytics & Employee Turnover
 This repository contains my work for the **Salifort Motors HR analytics capstone project** from the Google Advanced Data Analytics programme.
 The goal of the project is to use HR data to:
 - Understand which factors are most associated with employees leaving the company.
